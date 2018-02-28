@@ -1,8 +1,10 @@
 # Project Title
-One Paragraph of project description goes here
+______ is a scaled-down DIY version of the Mars Curiousity Rover. It is designed almost entirely out of consumer off the shelf (COTS) parts and 3D printable pieces. It is meant to be an educational platform to give young aspiring engineers and scientists a fun and engaging platform to being doing robotics. 
 
-Getting Started
-These instructions will get you a copy of the project up and running on your local machine for development and testing purposes. See deployment for notes on how to deploy the project on a live system.
+## Skills/Tools necessary
+To complete this project you will need a set of skills and tools to perform these tasks. You will need to know how to do the following:
+Markup:
+  * Soldering
 
 Prerequisites
 What things you need to install the software and how to install them
