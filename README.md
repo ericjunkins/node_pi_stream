@@ -7,6 +7,7 @@
 
 | Author/Creator            |        |
 | --------------            | -------|
+| Contact email (optional)  |        |
 | Cost without 3D printer   |        |
 | Cost with 3D printer      |        |
 | Date Added                |        |
